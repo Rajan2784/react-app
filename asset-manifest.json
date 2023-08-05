@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rajan2784/react-app/static/css/main.ee3e5f8b.css",
-    "main.js": "/Rajan2784/react-app/static/js/main.46897eee.js",
+    "main.css": "/Rajan2784/react-app/static/css/main.8951a7fd.css",
+    "main.js": "/Rajan2784/react-app/static/js/main.a2bf2d67.js",
     "static/media/2.png": "/Rajan2784/react-app/static/media/2.7843b0c41ccb425bdd05.png",
     "static/media/1.jpg": "/Rajan2784/react-app/static/media/1.ab5b296c73e5e62a759c.jpg",
     "index.html": "/Rajan2784/react-app/index.html",
-    "main.ee3e5f8b.css.map": "/Rajan2784/react-app/static/css/main.ee3e5f8b.css.map",
-    "main.46897eee.js.map": "/Rajan2784/react-app/static/js/main.46897eee.js.map"
+    "main.8951a7fd.css.map": "/Rajan2784/react-app/static/css/main.8951a7fd.css.map",
+    "main.a2bf2d67.js.map": "/Rajan2784/react-app/static/js/main.a2bf2d67.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee3e5f8b.css",
-    "static/js/main.46897eee.js"
+    "static/css/main.8951a7fd.css",
+    "static/js/main.a2bf2d67.js"
   ]
 }
