@@ -70,4 +70,17 @@
         }
     }
 
+    .afterSubmit{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+
+        h1{
+            margin-bottom: 10px;
+        }
+    }
+    .dnone{
+        display: none;
+    }
 }
